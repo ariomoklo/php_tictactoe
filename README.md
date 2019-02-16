@@ -1,6 +1,7 @@
 # php_tictactoe
 
 Tic Tac Toe Game Using PHP. nb: and a little JavaScrpit. ;)
+Please serve this project in local server if you want this to work.
 
 ## License & Disclaimer
 
